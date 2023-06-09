@@ -1,0 +1,22 @@
+.container{
+   width: 560px;
+   height: 560px;
+   border:10px solid brown;
+   display: grid;
+   grid-template-columns:repeat(8,70px) ;
+   grid-template-rows: repeat(8,70px);
+   text-align: center;
+   color:white;
+   font-size: 1rem;
+
+}
+
+.white{
+   background-color: rgb(255, 196, 125);
+
+}
+.black{
+   background-color: black;
+  
+  
+}
